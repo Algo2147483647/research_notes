@@ -98,5 +98,9 @@ Leela Zero 是一个开源的围棋 AI 项目，Leela Zero 和 AlphaGo Zero 的�
 - AlphaGo Zero 是由 Google DeepMind 开发的闭源项目。
 - Leela Zero 是开源的，由围棋社区共同维护和改进。
 
+[leela-zero/leela-zero: Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper. (github.com)](https://github.com/leela-zero/leela-zero)
+
+
+
 
 
